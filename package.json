@@ -2,7 +2,7 @@
   "name": "todolist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aprendizesdigitais.github.io/React/todolist/",
+  "homepage": "https://aprendizesdigitais.github.io/Todolist/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
